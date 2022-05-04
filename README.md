@@ -7,4 +7,4 @@
 ![desktop-screenshot](https://user-images.githubusercontent.com/64666657/166686218-011b8266-253a-4d52-a08c-8b99bdc13f44.png)
 
 ## Mobile
-[Instagram.pdf](https://github.com/6eatriz/instagram-login/files/8620539/Instagram.pdf)
+![mobile-screenshot](https://user-images.githubusercontent.com/64666657/166687374-81d34afb-f75e-4551-8fc7-0211a78d0667.png)
